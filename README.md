@@ -31,7 +31,7 @@ The system allows users to offer rides, find available rides, and request to joi
 * Data Structures & Algorithms
 
 **📂 Project Structure**
-
+```
 Ride Pooling/
 │
 ├── login.py
@@ -41,16 +41,17 @@ Ride Pooling/
 ├── my_requests.py
 ├── my_rides.py
 ├── database.py
-│
+├── database.sql
 └── DSA/
     ├── array.py
     ├── linked_list.py
     ├── stack.py
     ├── queue.py
     └── tree.py
-
+```
 
 **🔄 Basic Flow**
+```
 Login
   ↓
 Dashboard
@@ -60,6 +61,7 @@ Offer Ride / Find Ride
 Ride Request
   ↓
 Accept / Reject
+```
 
 **🎯 Project Objective**
 The main objective of this project is to create a simple ride-sharing system while demonstrating the practical implementation of different Data Structures in a real application.
