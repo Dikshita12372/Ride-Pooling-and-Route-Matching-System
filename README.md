@@ -32,22 +32,27 @@ The system allows users to offer rides, find available rides, and request to joi
 
 **📂 Project Structure**
 ```
-Ride Pooling/
+Ride Pooling and Route Matching System/
 │
-├── login.py
-├── dashboard.py
-├── offer_ride.py
-├── find_ride.py
-├── my_requests.py
-├── my_rides.py
+├── DSA/
+│   ├── array.py
+│   ├── linked_list.py
+│   ├── stack.py
+│   ├── queue.py
+│   └── tree.py
+│
+├── screens/
+│   ├── login.py
+│   ├── dashboard.py
+│   ├── offer_ride.py
+│   ├── find_ride.py
+│   ├── my_requests.py
+│   └── my_rides.py
+│
+├── app.py
 ├── database.py
 ├── database.sql
-└── DSA/
-    ├── array.py
-    ├── linked_list.py
-    ├── stack.py
-    ├── queue.py
-    └── tree.py
+├── .gitignore
 ```
 
 **🔄 Basic Flow**
